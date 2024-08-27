@@ -64,7 +64,7 @@ const Sidebar = () => {
     <div className="w-[248px] bg-[#161616] text-white flex flex-col justify-between">
       <div className="flex flex-col gap-y-16 p-2">
         <div className="flex items-center justify-between p-3">
-          <h3 className="text-2xl">DIA</h3>
+          <h3 className="text-2xl !font-dewi">DIA</h3>
           <Button
             size="icon"
             variant="ghost"
